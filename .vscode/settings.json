@@ -1,7 +1,8 @@
 {
-   "workbench.colorCustomizations": {
-      "activityBar.background": "#142475",
-      "titleBar.activeBackground": "#1B32A3",
-      "titleBar.activeForeground": "#FAFBFE"
-   }
+	"workbench.colorCustomizations": {
+		"activityBar.background": "#142475",
+		"titleBar.activeBackground": "#1B32A3",
+		"titleBar.activeForeground": "#FAFBFE"
+	},
+	"cmake.sourceDirectory": "/home/kali/Documents/otus-project/libgit2"
 }
